@@ -1,7 +1,0 @@
-Start Up Module
-1.Navigate to the desktop
-2.Create a new folder on the desktop
-  *Right click the desktop background ---> "New" ---> Left click "Folder"
-3.Name folder "My Website"
-4.Open folder in Visual Stuido Code
-  *Right click "My Website" folder --> Left click "Open with Code"
